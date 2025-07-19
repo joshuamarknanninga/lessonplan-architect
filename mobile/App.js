@@ -1,4 +1,3 @@
-// mobile/App.js
 import React from 'react';
 import { SafeAreaView, Platform } from 'react-native';
 import { WebView } from 'react-native-webview';
